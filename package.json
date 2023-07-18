@@ -35,8 +35,6 @@
       "last 1 safari version"
     ]
   },
-  9.8.0
-  },
   "engines": {
     "node": "9.8.0"
   }
